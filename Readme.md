@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to use Unobtrusive jQuery client validation 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3119)**
+**[[Run Online]](https://codecentral.devexpress.com/e3119/)**
 <!-- run online end -->
 
 
